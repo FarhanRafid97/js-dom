@@ -1,0 +1,13 @@
+* {
+    padding: 25px;
+    border: 1px solid black;
+    margin: 25px;
+}
+
+
+.bg-color {
+    background-color: aqua;
+    transition: 1.5s;
+
+
+}
